@@ -1,0 +1,7 @@
+{
+  "versionCode": 20,
+  "title": "New version available",
+  "message": "Version 2.0 brings new features and bug fixes.",
+  "url": "https://play.google.com/store/apps/details?id=com.example.app",
+  "isCancelable": false
+}
