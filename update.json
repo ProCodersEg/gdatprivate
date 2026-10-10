@@ -1,0 +1,17 @@
+{
+  "versionCode": 1,
+  "url": "https://play.google.com/store/apps/details?id=com.hamor_era_fishing_war_game",
+  "isCancelable": true,
+  "en": {
+    "title": "New Update",
+    "message": "Version 2.0 brings new features and bug fixes.",
+    "update": "Update",
+    "later": "Later"
+  },
+  "ar": {
+    "title": "اصدار جديد",
+    "message": "الإصدار 2.0 يتضمن ميزات جديدة وإصلاحات للأخطاء.",
+    "update": "تحديث",
+    "later": "لاحقاً"
+  }
+}
